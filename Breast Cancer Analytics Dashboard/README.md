@@ -57,8 +57,8 @@ This project is designed for business analytics portfolios, showcasing advanced 
 
     Clone the repository:
         bash
-        git clone https://github.com/yourusername/breast-cancer-dashboard.git
-        cd breast-cancer-dashboard
+        git clone https://github.com/yourusername/Business-Analyst-Portfolio.git
+        cd Breast Cancer Analytics Dashboard
 
     Install dependencies:
         bash
