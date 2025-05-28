@@ -34,8 +34,13 @@ This portfolio contains simple yet insightful data science and machine learning 
 - **Model:** NLP
 - **Objective:** Analyze sentiment polarity of customer reviews.
 
+### 7. Breast Cancer Analytics Dashboard
+- **Dataset:** Breast Cancer Wisconsin Diagnostic (from sklearn)
+- **Model:** modern, interactive dashboard
+- **Objective:** showcasing advanced data exploration, visualization, and feature analysis for a real-world healthcare dataset.
+
 ## 🛠️ Technologies Used
-- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, VADER Sentiment Analyzer)
+- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, VADER Sentiment Analyzer, Streamlit)
 - Jupyter Notebooks / Python Scripts
 - Excel/CSV for data storage
 
