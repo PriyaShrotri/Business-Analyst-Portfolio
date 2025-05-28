@@ -52,3 +52,22 @@ This project is designed for business analytics portfolios, showcasing advanced 
 
     Custom Scatterplot:
     Lets the user select any two features for a scatterplot, colored by diagnosis.
+
+💻 How to Run
+
+    Clone the repository:
+
+    bash
+        git clone https://github.com/yourusername/breast-cancer-dashboard.git
+        cd breast-cancer-dashboard
+
+    Install dependencies:
+        bash
+        pip install streamlit pandas numpy matplotlib seaborn scikit-learn
+
+    Run the dashboard:
+        bash
+        streamlit run breast_cancer_dashboard.py
+        
+    Open your browser:
+        The app will open automatically, or visit http://localhost:8501.
